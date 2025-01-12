@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GAIDxefntPBZussyzqcvKLUQyQQ37v8gZIndSVSRFldiHQr7armyf4At8USMbgJcfTodY2p8fJO1D+6a6SH6kA==",
+  "success": true,
+  "projectFilePath": "/home/denilson/Desktop/CleanArch/CleanArch.Application/CleanArch.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/denilson/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/home/denilson/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/denilson/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/denilson/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/denilson/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/denilson/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

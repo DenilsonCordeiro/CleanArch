@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FjYlhJPBj+1vaZYEKo88d/BCt8YWR7OJW/ocwHmCIMyMFz+GJ5tKQ9fPgfUNEThUewOBou6kif30mWtmQ0Ibfw==",
+  "success": true,
+  "projectFilePath": "/home/denilson/Desktop/CleanArch/CleanArch.Domain/CleanArch.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/denilson/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
