@@ -1,0 +1,16 @@
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/bin/Debug/net8.0/CleanArch.Application.deps.json
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/bin/Debug/net8.0/CleanArch.Application.dll
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/bin/Debug/net8.0/CleanArch.Application.pdb
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/bin/Debug/net8.0/CleanArch.Domain.dll
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/bin/Debug/net8.0/CleanArch.Domain.pdb
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.csproj.AssemblyReference.cache
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.AssemblyInfoInputs.cache
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.AssemblyInfo.cs
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.csproj.CoreCompileInputs.cache
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.sourcelink.json
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.csproj.CopyComplete
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.dll
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/refint/CleanArch.Application.dll
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.pdb
+/home/denilson/Desktop/CleanArch/Core/CleanArch.Application/obj/Debug/net8.0/ref/CleanArch.Application.dll
